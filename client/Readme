@@ -1,0 +1,49 @@
+# Exercise Evaluator
+
+## 🚀 Description
+This Fitness App is a real-time web application designed to track body posture and evaluate exercises using computer vision. It helps users perform workouts correctly by analyzing their movements through a webcam and providing instant visual feedback.
+
+## 🛠 Tech Stack
+Frontend: React.js, JavaScript, HTML, CSS
+Computer Vision: MediaPipe Pose
+3D / Visualization: Three.js
+Build Tool: Vite
+Version Control: Git & GitHub
+
+## ✨ Features
+Real-time body pose detection using webcam
+Exercise posture analysis and visualization
+Interactive UI for fitness tracking
+3D pose rendering for better movement understanding
+Lightweight and browser-based (no external hardware required)
+
+## ⚙️ How to Run
+Prerequisites
+Node.js installed
+# Clone the repository
+git clone https://github.com/your-username/fitness-app.git
+# Navigate to project folder
+cd fitness-app
+# Install dependencies
+npm install
+# Start the development server
+npm run dev
+
+open your broswer and visit 
+http://localhost:5173
+
+## 📌 Future Improvements
+Add exercise-specific accuracy scoring
+Support multiple workout types (squats, push-ups, yoga, etc.)
+User authentication and workout history
+Mobile responsiveness improvements
+APK version using WebView / React Native
+
+#What I Learned from This Project
+Integrating real-time computer vision in web applications
+Working with MediaPipe Pose landmarks
+Using Three.js for 3D visualization
+Handling live webcam streams in React
+Structuring and managing a frontend project professionally
+
+#
